@@ -77,7 +77,6 @@ class Game:
         while i < counter:
             global rand_num
             global rand_alphabet
-            global user_ans
             rand_num = random.randint(3, 9)
             rand_alphabet = random.choice(self.string_list)
             print_delay(f"The alphabet is {rand_alphabet} and the number is {rand_num}.\n", 'white')
@@ -88,7 +87,7 @@ class Game:
         self.check_score()
 
     def score_method(self, check):
-        if len(user_ans) == rand_num:
+        if len(rand_alphabet) == rand_num:
             if check:
                 print_delay("Correct! 1 point added!", 'green')
                 self.score += 1
