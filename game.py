@@ -85,8 +85,8 @@ class Game:
             user_ans = input()
             self.score_method(selected_dict.check(user_ans))
             i += 1
-            print_("Next question coming in 10 seconds...\n", "blue")
-            sleep(10)
+            print_("Next question coming in 5 seconds...\n", "blue")
+            sleep(5)
 
         self.check_score()
 
