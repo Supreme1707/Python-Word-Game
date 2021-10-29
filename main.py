@@ -8,5 +8,5 @@ def main_method():
     start_obj.dict_select()
     start_obj.game_method()
 
-
-main_method()
+if __name__ == "__main__":
+    main_method()
