@@ -1,9 +1,9 @@
-<h1 align="center" style="margin-top: 0px;">Python-Word-Game</h1>
+<h1 align="center" style="margin-top: 0px;">Python Word Game</h1>
 
 ## Downloading
-Download the zip file provided in the latest release in [releases](https://github.com/SupremeCoder1707/Python-Word-Game/releases/) and unzip it. Then, open Terminal/Command Prompt and type `cd path/to/unzipped/folder` or `cd C:\path\to\unzipped\folder`. Now, type `python main.py` and the game will start! If it shows a Syntax Error, try using `python3 main.py`. 
+Start by downloading the zip file provided in the [releases tab](https://github.com/SupremeCoder1707/Python-Word-Game/releases/). Make sure to download the latest release to enjoy the new and improved features of the game. Proceed to unzip it using your favourite file archiver utility! Open the default terminal in your operating system e.g. Command Prompt on the Windows operating system. Type `cd path/to/unzipped/folder` or `cd C:\path\to\unzipped\folder` depending on your operating system. You can play the game by typing `python main.py` if you are on Windows or `python3 main.py` if you are on Linux or Mac operating systems.
 
 ## Why did I make this?
-I just wanted to make a small, fun, python project because I did not code for about 2 months. Shout-out to my friend, [hyperf1fan](https://github.com/hyperf1fan) for giving me this idea!
+After taking a 2 month long break, I wanted to spend my time effectively to code a small and fun Python project. Shout-out to my friend, [hyperf1fan](https://github.com/hyperf1fan) for giving me this awesome idea!
 
 ### Enjoy the game!
