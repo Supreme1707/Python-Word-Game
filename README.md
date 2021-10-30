@@ -1,5 +1,3 @@
-### Enjoy the game!
-
 <h1 align="center" style="margin-top: 0px;">Python Word Game</h1>
 
 ## Downloading
@@ -7,3 +5,5 @@ Start by downloading the zip file provided in the [releases tab](https://github.
 
 ## Why did I make this?
 After taking a 2 month long break, I wanted to spend my time effectively to code a small and fun Python project. Shout-out to my friend, [hyperf1fan](https://github.com/hyperf1fan) for giving me this awesome idea!
+
+### Enjoy the game!
